@@ -4,11 +4,11 @@ Danta - API Project is the core API maven project contained source codes which a
 
 ## Documentation
 
- * Read our [official documentation](http://danta.technologies.io/docs/) for more information.
+ * Read our [official documentation](http://danta.tikaltechnologies.io) for more information.
 
 ## Prerequisites
 
- * [Danta - Parent Project](https://github.com/DataFramework/Parent)
+ * [Danta - Parent Project](https://github.com/DantaFramework/Parent)
  * Java 8
  * AEM 6.2 or later (for integration with AEM)
  * Jahia 7.2 or later (for integration with Jahia)
